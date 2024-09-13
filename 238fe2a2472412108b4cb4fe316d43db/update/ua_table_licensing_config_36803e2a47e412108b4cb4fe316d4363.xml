@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_1428387_loaner_r_loaner_request</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>juandavid.elizalde@dxc.com</sys_created_by>
+        <sys_created_on>2024-09-13 04:26:22</sys_created_on>
+        <sys_id>36803e2a47e412108b4cb4fe316d4363</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1428387_loaner_r_loaner_request</sys_name>
+        <sys_package display_value="Loaner Requester" source="x_1428387_loaner_r">238fe2a2472412108b4cb4fe316d43db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Requester">238fe2a2472412108b4cb4fe316d43db</sys_scope>
+        <sys_update_name>ua_table_licensing_config_36803e2a47e412108b4cb4fe316d4363</sys_update_name>
+        <sys_updated_by>juandavid.elizalde@dxc.com</sys_updated_by>
+        <sys_updated_on>2024-09-13 04:26:22</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>
